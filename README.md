@@ -11,3 +11,14 @@
 * Minimal APIs
 * Outbox Patterns
 * Testing
+
+# Domain Layer
+
+
+# Application Layer 
+* Use Cases => CQRS + MedialR
+* Cross-Cutting concerns
+** Logging
+** Validation
+* Exceptions
+* DI Configuration
